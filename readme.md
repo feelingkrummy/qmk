@@ -1,3 +1,5 @@
+This is a fork of the main QMK firmware to store my custom keyboard layouts.
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
